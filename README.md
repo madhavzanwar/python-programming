@@ -43,8 +43,7 @@ Each chapter includes:
 ## 🎯 Goals
 
 - Master Python fundamentals  
-- Build strong coding logic  
-- Prepare for GSoC & tech internships  
+- Build strong coding logic   
 - Transition into AI/ML development  
 
 ---
